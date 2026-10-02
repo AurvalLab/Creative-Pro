@@ -6,7 +6,7 @@ Creative-Pro：把模糊的想法，变成可复用的创意配方。
 
 ## GitHub 简介
 
-Creative Production Lab 的项目展示：视觉生成、UI 设计与文本创作的可复用配方、真实界面和使用指南。
+Creative Production Lab 的项目展示：视觉生成、UI 设计与文本创作，以照片手绘旅行海报展示创作方向。
 
 ## 中文短帖 / 朋友圈
 
@@ -14,56 +14,58 @@ Creative Production Lab 的项目展示：视觉生成、UI 设计与文本创�
 
 我做了 Creative-Pro / 创意生产实验室，把视觉生成、UI 设计和文本创作的配方放在一架书架上。
 
-先看预览，找到方向，再把模板带进自己的创作。
-卡住时，也可以去“灵感诊断台”拿一个限制和起手句。
+这次先拿「照片手绘旅行海报」给你看：
+上半留住照片里的现场，下半把同一段记忆画出来。
+羊群、水边小鸟、天空电线，一张照片就能成为一个创作起点。
 
 试用：https://pprompt.online/
 项目：https://github.com/AurvalLab/Creative-Pro
 
-推荐配图：`01-home-desktop.png` + `02-explore-desktop.png` + `04-idea-diagnostic.png`。
+推荐配图：`meadow-days.jpg` + `waterside-pause.jpg` + `skyline-pause.jpg`，文件位于 `assets/showcase/`。
 
 ## X 中文单帖
 
-截图存了很多，开工还是卡在第一句。
+一半是照片，一半是手绘。
 
-我做了 Creative-Pro：把视觉生成、UI 设计、文本创作的预览和配方放在一起，找到方向就能接着动手。
+Creative-Pro 里的「照片手绘旅行海报」，把同一个场景用两种方式留下来。
+草地里的羊群、水边的小鸟，都是可以开始的地方。
 
 来试试：https://pprompt.online/
 
-配图：`cover.png`。
+配图：`assets/showcase/meadow-days.jpg` + `assets/showcase/waterside-pause.jpg`。
 
 ## X English
 
-My saved screenshots needed a way into actual work.
+Half photograph, half hand-drawn memory.
 
-So I built Creative-Pro: a shelf of visual prompts, UI directions, and writing templates, with previews and recipes to start from.
+Creative-Pro's travel-poster template keeps the scene above and reimagines it below. A meadow, a quiet shore, a bird on a wire — each gives you a place to start.
 
 Try it: https://pprompt.online/
 
-Image: `cover.png`.
+Images: `assets/showcase/meadow-days.jpg` and `assets/showcase/skyline-pause.jpg`.
 
 ## 小红书 / 即刻
 
-标题：收藏了很多灵感，开工时还是空白？我做了一架创意配方书架
+标题：把旅行照片留一半，另一半画成手绘海报
 
-我经常存截图：海报的构图、页面的留白、某段刚刚好的表达。
-但到自己动手，还是会卡在“第一步到底写什么”。
+旅行回来，照片往往就留在相册里了。
+我想让它多一种呈现方式，所以在 Creative-Pro / 创意生产实验室放了「照片手绘旅行海报」模板。
 
-所以做了 Creative-Pro，也就是创意生产实验室。
+上半保留照片的现场，下半用水粉和手绘线条重构同一场景。
+草地羊群、水边的小鸟，甚至一根电线上停着的鸟，都可以成为海报的主角。
 
-你可以按视觉生成、UI 设计、文本创作浏览模板。
-先看预览，再读做法；合适的模板可以复制到常用工具中。
-
-“灵感诊断台”是我很喜欢的一块：选一个当前的卡点，它给出一个限制、一句起手提示和对应的 Skill，让模糊的方向有地方落脚。
+这里展示的是模板现有示例。
+如果你想试试，可以带上自己的照片和场景描述，在站内选择这个模板开始创作。
+网站也整理了其他视觉生成、UI 设计和文本创作模板。
 
 网站已经可以打开：https://pprompt.online/
 项目展示：https://github.com/AurvalLab/Creative-Pro
 
-欢迎告诉我：你创作时最容易卡在哪一步？
+欢迎告诉我：你最想把哪一张旅行照片变成海报？
 
-配图顺序：`cover.png` → `02-explore-desktop.png` → `03-template-detail.png` → `04-idea-diagnostic.png` → `05-home-mobile.png`。
+配图顺序：`assets/showcase/meadow-days.jpg` → `assets/showcase/waterside-pause.jpg` → `assets/showcase/skyline-pause.jpg`。
 
-标签建议：#独立开发 #创意工具 #提示词 #UIDesign
+标签建议：#独立开发 #旅行海报 #照片手绘 #AI创作
 
 ## 四条串帖
 
@@ -72,15 +74,15 @@ Image: `cover.png`.
 我把自己总在收藏、却很难用起来的灵感，整理成了 Creative-Pro / 创意生产实验室。
 希望从“这个不错”走到“我知道怎么开始”。
 
-**2 / 配方书架**
+**2 / 照片与手绘**
 
-视觉生成、UI 设计、文本创作放在同一套索引里。
-按用途搜索，用作品类型和创作特征缩小范围，再打开详情看预览与说明。
+先看「照片手绘旅行海报」：上半保留照片，下半把同一个场景重构成插画。
+三张示例分别是草地羊群、水边小鸟和天空电线。
 
-**3 / 起手句**
+**3 / 带上自己的照片**
 
-灵感诊断台从一个具体卡点出发，给你一个限制和一句起手提示。
-你可以带着它回到首页，再继续改成自己的想法。
+在站内打开模板，带上自己的照片和场景描述，再回到首页创作入口继续。
+照片留住当时的现场，插画提取最有辨识度的主体和细节。
 
 **4 / 试用与反馈**
 
@@ -90,4 +92,4 @@ Image: `cover.png`.
 
 ## 发布说明
 
-以上为待使用文案，未自动发布到社交平台。图为实际产品界面，封面为宣传排版。功能状态会变化，发布时以当前网站为准。
+以上为待使用文案，未自动发布到社交平台。海报来自指定模板的现有公开画廊，本次未执行新的生成任务；封面为宣传排版。功能状态会变化，发布时以当前网站为准。

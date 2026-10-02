@@ -6,6 +6,22 @@
 | --- | --- |
 | `assets/cover.svg` | 本次为 Creative-Pro 编写的宣传封面；沿用网站的纸色、墨色、珊瑚红、青绿色和黄色 |
 | `assets/cover.png` | 上述封面的 1280 × 640 PNG 导出，可作为 GitHub social preview 和横版宣传配图 |
+| `assets/showcase/meadow-days.jpg` | 「照片手绘旅行海报」画廊第 1 张：草地羊群，1115 × 1674 |
+| `assets/showcase/waterside-pause.jpg` | 同一模板画廊第 2 张：水边小鸟，1115 × 1674 |
+| `assets/showcase/skyline-pause.jpg` | 同一模板画廊第 4 张：天空电线，1115 × 1674 |
+
+展示图来自 [照片手绘旅行海报](https://pprompt.online/prompt/photo-handdrawn-travel-poster/) 当前公开画廊。本次按项目所有者指定选用，逐字节保留现有作品，没有重新生成、裁切、改色或改写图中文字。三张图均不含人物，没有 EXIF 或 XMP 元数据。作品中的原有署名仍保留。
+
+原始线上路径分别为 `/assets/photo-handdrawn-travel-poster-reference.jpg`、`/assets/photo-handdrawn-travel-poster-reference-02.jpg`、`/assets/photo-handdrawn-travel-poster-reference-04.jpg`；2026-10-02 核实均在该模板页面中。
+
+这些是模板示例作品，不是本次新执行的生成任务，不承诺每次得到相同结果。
+
+## 前版界面截图留存
+
+以下为前版审查素材，保留供比较，不再作为 README 或帖子推荐配图。
+
+| 文件 | 来源与用途 |
+| --- | --- |
 | `assets/screenshots/01-home-desktop.png` | 线上首页，1440 × 1000 |
 | `assets/screenshots/02-explore-desktop.png` | 线上 UI 设计分类索引，1440 × 1000 |
 | `assets/screenshots/03-template-detail.png` | 线上“跨页一致 UI 风格规范”详情，1440 × 1000 |
@@ -24,7 +40,7 @@
 
 网站中的“去 AI 味 · 定点改写”参考 [Lieflat Less AI Tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)。这类模板是经整理的工作指令，来源项目的完整规则及许可仍以原仓库为准。
 
-本仓库不打包参考项目、视频、第三方原图、完整提示词库或 Skill 源文件。
+本仓库不打包参考项目、视频、私人原始照片、完整提示词库或 Skill 源文件。展示海报含摄影区域，其使用范围仍以项目所有者与各素材权利人的授权为准。
 
 ## 使用范围
 

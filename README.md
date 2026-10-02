@@ -30,32 +30,21 @@ Creative-Pro 是 **Creative Production Lab** 的公开项目展示仓库。
 
 UI 和文本模板复制后，可带到你常用的工具中；带 Skill 的视觉模板会回到首页创作入口。站内生成涉及账号、积分与服务状态，以页面提示为准。
 
-## 实际界面
+## 视觉生成 · 照片手绘旅行海报
 
-以下均为 2026-10-02 从线上网站、未登录浏览器拍摄的真实截图。
+**一张照片，两种旅行记忆。**
 
-### 从一个粗略想法开始
+上半保留真实照片，下半用明快的手绘插画重构同一场景。把草地上的羊群、水边的小鸟，或天空中的一根电线，变成一张有故事的旅行海报。
 
-![桌面首页：品牌、创作描述框与 Skill 入口](assets/screenshots/01-home-desktop.png)
+| 草地羊群 · Meadow Days | 水边小鸟 · Waterside Pause | 天空电线 · Skyline Pause |
+| --- | --- | --- |
+| ![草地羊群：上半为草地照片，下半为水粉手绘旅行插画](assets/showcase/meadow-days.jpg) | ![水边小鸟：上半为岸边鸟类照片，下半为明快的手绘插画](assets/showcase/waterside-pause.jpg) | ![天空电线：上半为蓝天与停驻小鸟照片，下半为简洁手绘海报](assets/showcase/skyline-pause.jpg) |
 
-### 先看预览，再挑配方
+**[打开「照片手绘旅行海报」模板 ↗](https://pprompt.online/prompt/photo-handdrawn-travel-poster/) · [浏览更多视觉生成](https://pprompt.online/category/visual-generation/)**
 
-![UI 模板索引：搜索、分类、作品类型与创作特征筛选](assets/screenshots/02-explore-desktop.png)
+选用这个模板，带上自己的照片和场景描述，再回到首页创作入口继续。模板目标为 2:3 竖版、上下各半；照片保留现场，插画提取最有辨识度的主体与细节。
 
-### 让设计方向有规则可循
-
-![跨页一致 UI 风格规范：预览、模板入口和交付说明](assets/screenshots/03-template-detail.png)
-
-### 给卡住的想法一个起点
-
-![灵感诊断台：创意卡点、限制、起手句和推荐 Skill](assets/screenshots/04-idea-diagnostic.png)
-
-<details>
-<summary>查看手机端</summary>
-
-<p><img src="assets/screenshots/05-home-mobile.png" alt="390 像素宽手机首页：搜索、分类和模板卡片" width="390" /></p>
-
-</details>
+以上是该模板已在网站展示的三张示例，本次仅用于作品展示，不是新执行的生成任务，也不承诺每次得到相同结果。点击图片可查看大图。
 
 ## 参与反馈
 
@@ -65,6 +54,6 @@ UI 和文本模板复制后，可带到你常用的工具中；带 Skill 的视�
 
 ## 关于这个仓库
 
-这个仓库收录项目介绍、实际界面和[可直接使用的宣传文案](docs/launch-copy.md)。应用源码和运行配置不在本仓库中。
+这个仓库收录项目介绍、视觉生成示例和[可直接使用的宣传文案](docs/launch-copy.md)。应用源码和运行配置不在本仓库中。
 
 模板方法存在参考来源，使用范围与素材说明见 [素材与来源](docs/assets-and-sources.md)。本仓库未授予应用源码或第三方素材的开源许可；付款、效果保证和具体模型能力均以网站实际状态为准。

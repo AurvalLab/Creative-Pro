@@ -19,21 +19,21 @@ Search → filter → open a template → use it.
 
 UI and writing templates can be copied into your preferred tool. Skill-based visual templates return to the homepage composer. In-site generation depends on account access, credits, and service availability; follow the website's current notices.
 
-## Real screenshots
+## Visual generation · Photo hand-drawn travel poster
 
-Captured from the live site on October 2, 2026, in a fresh, unsigned-in browser profile.
+**One photograph, two ways to remember a trip.**
 
-![Desktop homepage](assets/screenshots/01-home-desktop.png)
-![UI template index](assets/screenshots/02-explore-desktop.png)
-![Template detail](assets/screenshots/03-template-detail.png)
-![Idea diagnostic](assets/screenshots/04-idea-diagnostic.png)
+The upper half keeps the photograph. The lower half reinterprets the same scene as a bright hand-drawn travel illustration, from sheep in a meadow to birds beside the water or a quiet moment above the clouds.
 
-<details>
-<summary>Mobile view</summary>
+| Meadow Days | Waterside Pause | Skyline Pause |
+| --- | --- | --- |
+| ![Meadow photograph paired with a hand-drawn illustration of grazing sheep](assets/showcase/meadow-days.jpg) | ![Waterside birds paired with a colorful hand-drawn travel illustration](assets/showcase/waterside-pause.jpg) | ![A bird on a wire paired with a hand-drawn sky poster](assets/showcase/skyline-pause.jpg) |
 
-<img src="assets/screenshots/05-home-mobile.png" alt="Mobile homepage at 390 pixels wide" width="390" />
+**[Open the travel-poster template ↗](https://pprompt.online/prompt/photo-handdrawn-travel-poster/) · [Explore visual generation](https://pprompt.online/category/visual-generation/)**
 
-</details>
+Choose the template, bring your own photograph and scene description, and continue in the homepage composer. The template targets a vertical 2:3 poster with equal halves, preserving the photographic scene above and interpreting its recognizable subjects below.
+
+These three examples already appear in the website's template gallery. This update showcases existing work; it does not represent a new generation run or guarantee identical results. Click an image to view it in full.
 
 ## Feedback
 
