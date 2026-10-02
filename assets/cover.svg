@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Creative-Pro · 创意生产实验室</title>
+  <desc id="desc">让收藏的灵感，进入下一次创作。视觉生成、UI 设计、文本创作。</desc>
+  <rect width="1280" height="640" fill="#eeece3"/>
+  <g stroke="#17181c" stroke-width="3">
+    <rect x="58" y="46" width="346" height="48" rx="24" fill="#17181c"/>
+    <rect x="52" y="40" width="346" height="48" rx="24" fill="#eeece3"/>
+  </g>
+  <g fill="#17181c" font-family="Microsoft YaHei, sans-serif">
+    <text x="76" y="72" font-size="20" font-weight="700">✦ CREATIVE-PRO</text>
+    <text x="950" y="70" font-size="16" letter-spacing="2">CREATIVE RECIPE SHELF</text>
+    <text x="52" y="218" font-size="72" font-weight="900">让收藏的灵感，</text>
+    <text x="52" y="318" font-size="72" font-weight="900">进入下一次创作。</text>
+    <text x="56" y="383" font-size="23">把模糊的想法，变成可复用的创意配方。</text>
+  </g>
+  <g font-family="Microsoft YaHei, sans-serif" font-weight="700" font-size="22" stroke="#17181c" stroke-width="3">
+    <rect x="61" y="441" width="190" height="56" fill="#17181c"/>
+    <rect x="54" y="434" width="190" height="56" fill="#75d7cb"/>
+    <rect x="271" y="441" width="190" height="56" fill="#17181c"/>
+    <rect x="264" y="434" width="190" height="56" fill="#f5c82f"/>
+    <rect x="481" y="441" width="190" height="56" fill="#17181c"/>
+    <rect x="474" y="434" width="190" height="56" fill="#f15b3b"/>
+    <g stroke="none" fill="#17181c"><text x="149" y="470" text-anchor="middle">视觉生成</text><text x="359" y="470" text-anchor="middle">UI 设计</text><text x="569" y="470" text-anchor="middle">文本创作</text></g>
+  </g>
+  <g transform="translate(881 159) rotate(7)" stroke="#17181c" stroke-width="4">
+    <rect x="15" y="25" width="300" height="338" fill="#17181c"/>
+    <rect x="0" y="10" width="300" height="338" fill="#75d7cb"/>
+    <rect x="0" y="10" width="300" height="55" fill="#f5c82f"/>
+    <circle cx="26" cy="37" r="6" fill="#17181c" stroke="none"/><circle cx="46" cy="37" r="6" fill="#17181c" stroke="none"/>
+    <path d="M32 118h229M32 240h192M32 262h229M32 285h138" fill="none"/>
+    <rect x="32" y="143" width="88" height="66" fill="#f15b3b"/>
+    <rect x="137" y="143" width="124" height="66" fill="#eeece3"/>
+    <g fill="#17181c" stroke="none" font-family="Microsoft YaHei, sans-serif"><text x="74" y="44" font-size="14" font-weight="700">PICK / REMIX / CREATE</text><text x="32" y="102" font-size="23" font-weight="700">START WITH A RECIPE</text><text x="238" y="327" font-size="40">↗</text></g>
+  </g>
+  <path d="M52 545h1176" stroke="#17181c" stroke-width="2"/>
+  <g fill="#17181c" font-family="Microsoft YaHei, sans-serif"><text x="54" y="592" font-size="23" font-weight="700">pprompt.online ↗</text><text x="1228" y="589" font-size="15" text-anchor="end">CREATIVE PRODUCTION LAB · 创意生产实验室</text></g>
+</svg>

@@ -1,0 +1,17 @@
+# Showcase files are added individually. Keep local data out of this repository.
+.env
+.env.*
+.dev.vars
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.sqlite*
+*.log
+*.zip
+node_modules/
+.next/
+out/
+dist/
+_review/
