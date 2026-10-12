@@ -1,49 +1,47 @@
 # 素材、来源与使用范围
 
-## 素材清单
+## 宣传封面
 
-| 文件 | 来源与用途 |
+`assets/cover.svg` 为项目原有宣传封面，沿用网站纸色、墨色、珊瑚红、青绿色与黄色。本次同步更新副标题；`assets/cover.png` 是对应的 1280 × 640 PNG 导出。
+
+封面用于品牌与主题表达，是宣传排版，不是产品截图。
+
+## 界面截图 · 2026-10-12
+
+| 文件 | 原始尺寸 | 展示内容 |
+| --- | --- | --- |
+| `assets/screenshots/01-home-desktop.png` | 1425 × 968 | 桌面首页：品牌构图、选中的图片 Skill 与统一创作入口 |
+| `assets/screenshots/02-explore-desktop.png` | 1440 × 1067 | 探索页：真实配方条目、分类、作品类型与创作特征筛选 |
+| `assets/screenshots/03-template-detail.png` | 1440 × 978 | 超现实波普拼贴详情：图片预览、Skill 摘要与使用说明 |
+| `assets/screenshots/04-idea-diagnostic.png` | 1425 × 968 | 灵感诊断台：三种意图、具体约束、起手句和主操作 |
+| `assets/screenshots/05-home-mobile.png` | 375 × 812 | 手机首页：紧凑导航、搜索、分类与两列精选配方 |
+
+这五张图来自当前本地生产构建的待发布版本，逐张打开检查后选用。它们展示真实页面状态，不能据此认为同一版本已经部署到线上。
+
+使用未登录界面，仅切换语言、筛选分类、选择模板和滚动；没有截取账户资料、任务历史、积分账本、设置页、二维码或私人上传素材。未拼造用户数据、完成状态或生成结果。
+
+首页创作区中的城市拼贴描述是本次编写的演示输入，未提交生成任务。图片中的预览和方法说明不代表这次已执行真实生成。当前线上生成提交与 Full Skill 执行仍未开放。
+
+## 现有示例 · 照片手绘旅行海报
+
+| 文件 | 来源 |
 | --- | --- |
-| `assets/cover.svg` | 本次为 Creative-Pro 编写的宣传封面；沿用网站的纸色、墨色、珊瑚红、青绿色和黄色 |
-| `assets/cover.png` | 上述封面的 1280 × 640 PNG 导出，可作为 GitHub social preview 和横版宣传配图 |
-| `assets/showcase/meadow-days.jpg` | 「照片手绘旅行海报」画廊第 1 张：草地羊群，1115 × 1674 |
-| `assets/showcase/waterside-pause.jpg` | 同一模板画廊第 2 张：水边小鸟，1115 × 1674 |
-| `assets/showcase/skyline-pause.jpg` | 同一模板画廊第 4 张：天空电线，1115 × 1674 |
+| `assets/showcase/meadow-days.jpg` | 照片手绘旅行海报画廊第 1 张：草地羊群 |
+| `assets/showcase/waterside-pause.jpg` | 同一模板画廊第 2 张：水边小鸟 |
+| `assets/showcase/skyline-pause.jpg` | 同一模板画廊第 4 张：天空电线 |
 
-展示图来自 [照片手绘旅行海报](https://pprompt.online/prompt/photo-handdrawn-travel-poster/) 当前公开画廊。本次按项目所有者指定选用，逐字节保留现有作品，没有重新生成、裁切、改色或改写图中文字。三张图均不含人物，没有 EXIF 或 XMP 元数据。作品中的原有署名仍保留。
+三张图均为 1115 × 1674，保留项目所有者此前指定的原有作品。原始文件与本地网站素材逐字节一致，没有重新生成、裁切、改色或改写图中文字，也没有 EXIF 或 XMP 元数据。作品中的原有署名保留。
 
-原始线上路径分别为 `/assets/photo-handdrawn-travel-poster-reference.jpg`、`/assets/photo-handdrawn-travel-poster-reference-02.jpg`、`/assets/photo-handdrawn-travel-poster-reference-04.jpg`；2026-10-02 核实均在该模板页面中。
+模板链接：[照片手绘旅行海报](https://pprompt.online/prompt/photo-handdrawn-travel-poster/)。
 
-这些是模板示例作品，不是本次新执行的生成任务，不承诺每次得到相同结果。
+原始素材路径为 `/assets/photo-handdrawn-travel-poster-reference.jpg`、`/assets/photo-handdrawn-travel-poster-reference-02.jpg`、`/assets/photo-handdrawn-travel-poster-reference-04.jpg`。这些是示例作品，不保证每次得到相同结果。
 
-## 前版界面截图留存
+## 方法与权利
 
-以下为前版审查素材，保留供比较，不再作为 README 或帖子推荐配图。
+截图里的流程、质量门和提示词是创作方法说明。它们不构成生成效果、模型能力或完成交付的保证。
 
-| 文件 | 来源与用途 |
-| --- | --- |
-| `assets/screenshots/01-home-desktop.png` | 线上首页，1440 × 1000 |
-| `assets/screenshots/02-explore-desktop.png` | 线上 UI 设计分类索引，1440 × 1000 |
-| `assets/screenshots/03-template-detail.png` | 线上“跨页一致 UI 风格规范”详情，1440 × 1000 |
-| `assets/screenshots/04-idea-diagnostic.png` | 线上首页灵感诊断台，1440 × 1500 |
-| `assets/screenshots/05-home-mobile.png` | 线上手机首页，390 × 844 |
+网站部分方法参考公开项目，具体来源与许可应以各模板的来源说明及原项目为准。此前留存截图中的“跨页一致 UI 风格规范”参考 [Superdesign Prompts](https://github.com/superdesigndev/superdesign-prompts) 的组织方法，其提示内容许可为 [CC0 1.0](https://github.com/superdesigndev/superdesign-prompts/blob/main/LICENSE-DATA)；本次展示的详情页已替换为超现实波普拼贴。
 
-截图日期：2026-10-02，Asia/Shanghai。
-截图使用独立、未登录浏览器；没有截取账户页、生成历史、积分账本、设置页或群二维码。
-页面仅切换为中文、滚动到目标区域，使用减少动态效果的浏览器设置；没有修改页面数据或拼造产品结果。
+本仓库收录项目介绍与宣传材料，不打包应用源码、运行配置、完整模板库、Skill 源文件或私人素材。
 
-封面是宣传排版，不是产品截图。截图中的预览是模板示意，不承诺每次生成相同结果。
-
-## 模板方法参考
-
-展示中的“跨页一致 UI 风格规范”参考了 [Superdesign Prompts](https://github.com/superdesigndev/superdesign-prompts) 的设计规范组织方法；该项目为提示内容提供 [CC0 1.0](https://github.com/superdesigndev/superdesign-prompts/blob/main/LICENSE-DATA)。本站重新编写任务输入、组件状态和三页面一致性检查。
-
-网站中的“去 AI 味 · 定点改写”参考 [Lieflat Less AI Tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)。这类模板是经整理的工作指令，来源项目的完整规则及许可仍以原仓库为准。
-
-本仓库不打包参考项目、视频、私人原始照片、完整提示词库或 Skill 源文件。展示海报含摄影区域，其使用范围仍以项目所有者与各素材权利人的授权为准。
-
-## 使用范围
-
-这些文件用于 Creative Production Lab / Creative-Pro 的项目介绍与宣传。
-转载截图请标注项目名称并链接 [pprompt.online](https://pprompt.online/)；页面内第三方内容的权利仍归各自权利人。
-公开展示不等于授予网站代码、模板库或截图内第三方元素的再许可。本仓库暂未指定通用开源许可证。
+转载界面截图请标注项目名称并链接 [pprompt.online](https://pprompt.online/)。第三方内容的权利仍归各自权利人；公开展示不等于授予网站代码、模板库或截图内元素的再许可。本仓库暂未指定通用开源许可证。
